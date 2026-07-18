@@ -1,0 +1,6 @@
+classes = [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+]
